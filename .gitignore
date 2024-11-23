@@ -1,0 +1,21 @@
+# Environment files
+.env
+
+# IDE settings
+.idea/
+
+# Maven wrapper files
+.mvn/
+mvnw
+mvnw.cmd
+
+# Build output
+target/
+
+# Project-specific files
+Platform.iml
+
+
+# Documentation
+HELP.md
+
